@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "title": "Harry Potter",
+      "title": "Harry Potter 2",
       "id": 1
     },
     {
@@ -19,6 +19,18 @@
     {
       "title": "crashing the coding interview",
       "id": 6
+    },
+    {
+      "title": "the shining",
+      "id": 7
+    },
+    {
+      "title": "how to get away with murderer",
+      "id": 8
+    },
+    {
+      "title": "lord of the rings",
+      "id": 9
     }
   ]
 }
